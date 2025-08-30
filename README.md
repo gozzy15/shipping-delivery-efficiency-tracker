@@ -1,8 +1,7 @@
 # Shipping & Delivery Efficiency Tracker 📦
 
 ## Overview
-This project is an **Excel 2016 dashboard** for analyzing shipping and delivery performance.  
-It helps monitor shipping speed, delivery timeliness, cost-efficiency, and product performance across regions and categories.
+This dashboard provides a granular view of 5000+ orders across 24 countries in Latin America. It is a powerful tool for analyzing the interplay between sales performance (Profit, Gross Sales) and operational efficiency (On-Time Delivery, Shipping Costs, Delays). The data includes calculated fields to flag late shipments and measure the extent of delays, making it ideal for identifying trends, root causes, and areas for improvement in the supply chain.
 
 ## Key Metrics
 - Average Shipping Time
@@ -35,3 +34,4 @@ Includes order dates, ship dates, regions, ship mode, delivery status, profit, a
 
 ## Example Dashboard
 ![Dashboard Screenshot](screenshots/dashboard.png)
+
