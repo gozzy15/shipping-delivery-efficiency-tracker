@@ -33,5 +33,6 @@ Includes order dates, ship dates, regions, ship mode, delivery status, profit, a
 - Microsoft Excel 2016 or later
 
 ## Example Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot]([screenshots/dashboard.png](https://github.com/gozzy15/shipping-delivery-efficiency-tracker/blob/main/Screenshot%202025-08-30%20220244.png))
+
 
